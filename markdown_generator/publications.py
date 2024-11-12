@@ -72,6 +72,9 @@ for row, item in publications.iterrows():
     
     md = "---\ntitle: \""   + item.title + '"\n'
     
+    # Add authors field
+    md += "authors: '" + str(item.authors) + "'\n"
+    
     md += """collection: publications"""
     
     md += """\npermalink: /publication/""" + html_filename
