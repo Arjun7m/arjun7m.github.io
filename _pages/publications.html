@@ -23,44 +23,37 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      <div class="archive__item">
-        <h2 class="archive__item-title">{{ post.title }}</h2>
+      <div class="publication-item">
+        {% include archive-single.html %}
         {% if post.authors %}
-          <p class="archive__item-authors">{{ post.authors }}</p>
+          <div class="publication-authors">
+            <em>Authors: {{ post.authors }}</em>
+          </div>
         {% endif %}
-        {% include archive-single-custom.html %}
       </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    <div class="archive__item">
-      <h2 class="archive__item-title">{{ post.title }}</h2>
+    <div class="publication-item">
+      {% include archive-single.html %}
       {% if post.authors %}
-        <p class="archive__item-authors">{{ post.authors }}</p>
+        <div class="publication-authors">
+          <em>Authors: {{ post.authors }}</em>
+        </div>
       {% endif %}
-      {% include archive-single-custom.html %}
     </div>
   {% endfor %}
 {% endif %}
 
 <style>
-  .archive__item-title {
-    margin: 0;
-    padding-bottom: 0.3em;
-    font-size: 1.5em;
-    color: #2a2a2a;
+  .publication-item {
+    margin-bottom: 2em;
   }
-  .archive__item-authors {
-    margin-top: 0;
-    margin-bottom: 0.5em;
-    font-style: italic;
+  .publication-authors {
+    margin-top: -0.5em;
+    margin-bottom: 1em;
     color: #666;
     font-size: 0.9em;
-  }
-  .archive__item {
-    margin-bottom: 2em;
-    padding-bottom: 1em;
-    border-bottom: 1px solid #f2f3f3;
   }
 </style>
