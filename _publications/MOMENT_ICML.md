@@ -4,7 +4,6 @@ collection: publications
 category: paper
 permalink: /publication/MOMENT_ICML.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
 venue: '41st International Conference on Machine Learning (ICML) 2024'
 paperurl: 'https://openreview.net/forum?id=8MG1dUYeye'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
