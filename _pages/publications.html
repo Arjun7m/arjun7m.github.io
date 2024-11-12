@@ -24,24 +24,24 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       <div class="publication-item">
-        {% include archive-single.html %}
         {% if post.authors %}
           <div class="publication-authors">
             <em>Authors: {{ post.authors }}</em>
           </div>
         {% endif %}
+        {% include archive-single.html %}
       </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     <div class="publication-item">
-      {% include archive-single.html %}
       {% if post.authors %}
         <div class="publication-authors">
           <em>Authors: {{ post.authors }}</em>
         </div>
       {% endif %}
+      {% include archive-single.html %}
     </div>
   {% endfor %}
 {% endif %}
