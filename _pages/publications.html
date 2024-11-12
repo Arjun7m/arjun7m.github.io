@@ -24,24 +24,22 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       <div class="publication-item">
+        <div class="publication-title">{{ post.title }}</div>
         {% if post.authors %}
-          <div class="publication-authors">
-            <em>Authors: {{ post.authors }}</em>
-          </div>
+          <div class="publication-authors">{{ post.authors }}</div>
         {% endif %}
-        {% include archive-single.html %}
+        {% include archive-single.html type="publication" %}
       </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     <div class="publication-item">
+      <div class="publication-title">{{ post.title }}</div>
       {% if post.authors %}
-        <div class="publication-authors">
-          <em>Authors: {{ post.authors }}</em>
-        </div>
+        <div class="publication-authors">{{ post.authors }}</div>
       {% endif %}
-      {% include archive-single.html %}
+      {% include archive-single.html type="publication" %}
     </div>
   {% endfor %}
 {% endif %}
@@ -50,10 +48,29 @@ author_profile: true
   .publication-item {
     margin-bottom: 2em;
   }
+  
+  .publication-title {
+    margin-bottom: 0.3em;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
   .publication-authors {
-    margin-top: -0.5em;
-    margin-bottom: 1em;
+    font-size: 1.1em;
+    color: #333;
+    margin-bottom: 0.5em;
+    line-height: 1.4;
+  }
+  
+  /* Style for the publication venue and other details */
+  .archive__item-excerpt {
     color: #666;
-    font-size: 0.9em;
+    font-style: italic;
+    margin-bottom: 1em;
+  }
+
+  /* Remove any author styling that might come from archive-single.html */
+  .archive__item-title {
+    display: none;
   }
 </style>
