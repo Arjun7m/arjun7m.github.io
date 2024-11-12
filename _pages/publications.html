@@ -46,7 +46,7 @@ author_profile: true
 
 <style>
   .publication-item {
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;
   }
   
   .publication-title {
@@ -58,19 +58,25 @@ author_profile: true
   .publication-authors {
     font-size: 1.1em;
     color: #333;
-    margin-bottom: 0.5em;
-    line-height: 1.4;
+    margin-bottom: 0.2em;  /* Reduced from 0.5em */
+    line-height: 1.3;
   }
   
   /* Style for the publication venue and other details */
   .archive__item-excerpt {
     color: #666;
     font-style: italic;
-    margin-bottom: 1em;
+    margin-bottom: 0.3em;  /* Reduced from 1em */
   }
 
   /* Remove any author styling that might come from archive-single.html */
   .archive__item-title {
     display: none;
+  }
+
+  /* Style for the download link to maintain consistent spacing */
+  .publication-item a {
+    margin-top: 0.2em;
+    display: inline-block;
   }
 </style>
