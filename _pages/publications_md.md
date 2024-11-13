@@ -27,7 +27,7 @@ A complete list of my papers can be found on [my Google Scholar profile](https:/
 **Venue:** 41st International Conference on Machine Learning (ICML) 2024
 
 ### Datasets for Time Series Foundation Models.
-**Authors:** _Arjun Choudhry*_, Konrad Szafer*, Mononito Goswami, Yifu Cai, Artur Dubrawski
+**Authors:** _Arjun Choudhry*_, Konrad Szafer*, Mononito Goswami, Yifu Cai, Artur Dubrawski   
 **Venue:** Workshop on Data-centric Machine Learning Research (DMLR), ICML 2024
 
 ### JoLT: Jointly Learned Representations of Language and Time-Series.
