@@ -11,10 +11,42 @@ A complete list of my papers can be found on [my Google Scholar profile](https:/
 ## Accepted/Published Papers
 
 ### Evaluating Gender Bias in Multilingual Multimodal AI Models: Insights from an Indian Context
-**Authors:** Kshitish Ghate, Arjun Choudhry, Vanya Banihatti Kumar  
+**Authors:** Kshitish Ghate, _Arjun Choudhry_, Vanya Banihatti Kumar  
 **Venue:** 5th Workshop on Gender Bias in Natural Language Processing, ACL 2024
 
 ### JoLT: Jointly Learned Representations of Language and Time-Series for Clinical Time-Series Interpretation
-**Authors:** Y Cai, A Srinivasan, M Goswami, A Choudhry, A Dubrawski  
-**Venue:** 38th AAAI Conference on Artificial Intelligence 2024 (Student Abstract Track), Best Student Paper Award
+**Authors:** Yifu Cai, Arvind Srinivasan, Mononito Goswami, _Arjun Choudhry_, Artur Dubrawski  
+**Venue:** 38th AAAI Conference on Artificial Intelligence 2024 (Student Abstract Track), **Best Student Abstract Paper Award** and **3-minute presentation finalist**
+
+### AQuA: A Benchmarking Tool for Label Quality Assessment
+**Authors:** Mononito Goswami*, Vedant Sanil*, _Arjun Choudhry^_, Arvind Srinivasan^, Chalisa Udompanyawit, Artur Dubrawski  
+**Venue:** 37th Conference on Neural Information Processing Systems (NeurIPS) 2023, Datasets & Benchmarks Track
+
+### MOMENT: A Family of Open Time-series Foundation Models.
+**Authors:** Mononito Goswami, Konrad Szafer*, _Arjun Choudhry*_, Yifu Cai, Shuo Li, Artur Dubrawski  
+**Venue:** 41st International Conference on Machine Learning (ICML) 2024
+
+### Datasets for Time Series Foundation Models.
+**Authors:** _Arjun Choudhry*_, Konrad Szafer*, Mononito Goswami, Yifu Cai, Artur Dubrawski
+**Venue:** Workshop on Data-centric Machine Learning Research (DMLR), ICML 2024
+
+### JoLT: Jointly Learned Representations of Language and Time-Series.
+**Authors:** Yifu Cai, Mononito Goswami, _Arjun Choudhry_, Arvind Srinivasan, Artur Dubrawski
+**Venue:** Workshop on Deep Generative Models for Health (DGM4H) 2023, NeurIPS 2023
+
+### Transformer-based Named Entity Recognition for French using Adversarial Adaptation
+**Authors:** _Arjun Choudhry_, Pankaj Gupta, Inder Khatri, Aaryan Gupta, Maxime Nicol, Marie-Jean Meurs  
+**Venue:** 37th AAAI Conference on Artificial Intelligence 2023 (Student Abstract Track)
+
+### CKS: A Community-based K-shell Decomposition Approach
+**Authors:** Inder Khatri*, Aaryan Gupta*, _Arjun Choudhry*_, Aryan Tyagi*, Dinesh Kumar Vishwakarma, Mukesh Prasad  
+**Venue:** 37th AAAI Conference on Artificial Intelligence 2023 (Student Abstract Track)
+
+### Adversarial Adaptation for French Named Entity Recognition
+**Authors:** _Arjun Choudhry*_, Inder Khatri*, Pankaj Gupta, Aaryan Gupta, Maxime Nicol, Marie-Jean Meurs, Dinesh Kumar Vishwakarma  
+**Venue:** 45th European Conference on Information Retrieval (ECIR) 2023
+
+### Influence Maximization in Social Networks using Discretized Harris’ Hawks Optimization Algorithm
+**Authors:** Inder Khatri*, _Arjun Choudhry*_, Aryaman Rao*, Aryan Tyagi, Dinesh Kumar Vishwakarma, Mukesh Prasad  
+**Venue:** Applied Soft Computing, Elsevier, 2023
 
