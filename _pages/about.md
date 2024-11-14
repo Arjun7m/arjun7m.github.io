@@ -24,3 +24,5 @@ I earned my Bachelor's in Information Technology from [Delhi Technological Unive
 Feel free to drop me an email at arjuncho [at] andrew [dot] cmu [dot] edu if you are interested in my research and would like to collaborate!
 
 I am looking for Ph.D. positions for Fall 2025. If you feel I am a good fit for your lab, please feel free to reach out. I would love to connect! :)
+
+My updated CV can be found [here](../CV_Arjun_Choudhry.pdf).

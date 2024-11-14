@@ -26,7 +26,7 @@ _^ and * represent equal contribution._
 **Venue:** Workshop on Time Series in the Age of Language Models, NeurIPS 2024, **Spotlight paper**
 
 ### Do LLMs Understand Financial Time Series?
-**Authors:** Yifu Cai, _Arjun Choudhry_, Mononito Goswami, Artur Dubrawski  
+**Authors:** Yifu Cai, _Arjun Choudhry_, Mononito Goswami, Artur Dubrawski   
 **Venue:** Workshop on Foundation Models for Time Series, ICAIF 2024, **Oral Presentation**
 
 ### AQuA: A Benchmarking Tool for Label Quality Assessment
