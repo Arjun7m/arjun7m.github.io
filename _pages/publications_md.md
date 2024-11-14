@@ -46,7 +46,7 @@ _^ and * represent equal contribution._
 **Venue:** Workshop on Deep Generative Models for Health (DGM4H) 2023, NeurIPS 2023
 
 ### Transformer-based Named Entity Recognition for French using Adversarial Adaptation
-**Authors:** _Arjun Choudhry_, Pankaj Gupta, Inder Khatri, Aaryan Gupta, Maxime Nicol, Marie-Jean Meurs  
+**Authors:** _Arjun Choudhry\*_, Pankaj Gupta\*, Inder Khatri, Aaryan Gupta, Maxime Nicol, Marie-Jean Meurs  
 **Venue:** 37th AAAI Conference on Artificial Intelligence 2023 (Student Abstract Track)
 
 ### CKS: A Community-based K-shell Decomposition Approach
@@ -66,7 +66,7 @@ _^ and * represent equal contribution._
 **Venue:** Applied Soft Computing, Elsevier, 2023
 
 ### MCD: A Modified Community Diversity Approach for Detecting Influential Nodes in Social Networks
-**Authors:** Inder Khatri\*, Aaryan Gupta, _Arjun Choudhry_, Sanjay Kumar  
+**Authors:** Inder Khatri\*, Aaryan Gupta\*, _Arjun Choudhry_, Sanjay Kumar  
 **Venue:** Journal of Intelligent Information Systems, Springer, 2023
 
 ### An Emotion-Aware Multitask Approach to Fake News and Rumor Detection Using Transfer Learning
