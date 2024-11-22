@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/NeurIPS_Pic.HEIC" 
+<img src="../images/arjunchoudhry.jpg" 
      alt="Presenting AQuA and JoLT at NeurIPS 2023 at New Orleans" 
      title="NeurIPS 2023">
 
