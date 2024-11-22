@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-![Alt text](../images/NeurIPS_Pic.HEIC "Presenting AQuA and JoLT and NeurIPS 2023")
+<img src="../images/NeurIPS_Pic.HEIC" 
+     alt="Presenting AQuA and JoLT at NeurIPS 2023 at New Orleans" 
+     title="NeurIPS 2023">
 
 I am a [Master's student](https://www.lti.cs.cmu.edu/people/students/choudhry-arjun.html) at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I conduct research at the [Auton Lab](https://autonlab.org/) at the [School of Computer Science](https://www.cs.cmu.edu/) under the guidance of [Prof. Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/).
 
