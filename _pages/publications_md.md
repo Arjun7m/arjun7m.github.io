@@ -23,7 +23,7 @@ _^ and * represent equal contribution._
 
 ### TimeSeriesExam: A Time Series Understanding Exam
 **Authors:** Yifu Cai, _Arjun Choudhry_, Mononito Goswami, Artur Dubrawski  
-**Venue:** Workshop on Time Series in the Age of Language Models, NeurIPS 2024, **Spotlight paper**
+**Venue:** Workshop on Time Series in the Age of Language Models, NeurIPS 2024, **Spotlight paper**, **Best Paper Award Honorable Mention**
 
 ### Do LLMs Understand Financial Time Series?
 **Authors:** Yifu Cai, _Arjun Choudhry_, Mononito Goswami, Artur Dubrawski   
