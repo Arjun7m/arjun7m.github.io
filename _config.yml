@@ -21,12 +21,12 @@ repository               : "Arjun7m/arjun7m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "arjunchoudhry_2.jpg"
+  avatar           : "arjunchoudhry_3.jpg"
   name             : "Arjun Choudhry"
   pronouns         : # example: "she/her"  
-  bio              : "MS @ Language Technologies Institute <br> Research @ Auton Lab <br> Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
-  employer         : "Carnegie Mellon University"
+  bio              : "ML PhD Student @ CSE, GaTech"
+  location         : "Atlanta, GA"
+  employer         : "Georgia Institute of Technology"
   uri              : # URL
   email            : "arjuncho@andrew.cmu.edu" 
 
