@@ -11,7 +11,11 @@ redirect_from:
      alt="Presenting AQuA and JoLT at NeurIPS 2023 at New Orleans" 
      title="NeurIPS 2023">
 
-I am a [Master's student](https://www.lti.cs.cmu.edu/people/students/choudhry-arjun.html) at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I conduct research at the [Auton Lab](https://autonlab.org/) at the [School of Computer Science](https://www.cs.cmu.edu/) under the guidance of [Prof. Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/).
+I am an incoming [ML PhD student](https://ml.gatech.edu/phd) at the [School of Computational Science and Engineering](https://cse.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I am advised by [Prof. B Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/) at the [AdityaLab](https://adityalab.cc.gatech.edu/index.html).
+
+I recently graduated with a [Master's degree](https://www.lti.cs.cmu.edu/people/students/choudhry-arjun.html) at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I conducted research at the [Auton Lab](https://autonlab.org/) at the [School of Computer Science](https://www.cs.cmu.edu/) under the guidance of [Prof. Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/).
+
+Over the Summer of 2025, I am working with [Prof. Daphne Ippolito](https://www.daphnei.com/) and [Prof. Maarten Sap](https://maartensap.com/) at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) on Multimodal Stance Detection for Detection of Harmful Memes on Social Media.
 
 My research focuses on pushing the boundaries of foundation models beyond just text and image modalities. I am particularly interested in:
 
@@ -29,4 +33,4 @@ Feel free to drop me an email at arjuncho [at] andrew [dot] cmu [dot] edu if you
 
 I am looking for Ph.D. positions for Fall 2025. If you feel I am a good fit for your lab, please feel free to reach out. I would love to connect! :)
 
-My updated CV can be found [here](../CV_Arjun_Choudhry.pdf).
+My updated CV can be found [here](../Arjun_Choudhry_CV.pdf).
