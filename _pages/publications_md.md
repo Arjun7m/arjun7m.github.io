@@ -10,7 +10,6 @@ A complete list of my papers can be found on [my Google Scholar profile](https:/
 
 _^ and * represent equal contribution._
 
-## Accepted/Published Papers
 ---
 
 ### MOMENT: A Family of Open Time-series Foundation Models.
@@ -20,6 +19,14 @@ _^ and * represent equal contribution._
 ### Datasets for Time Series Foundation Models.
 **Authors:** _Arjun Choudhry\*_, Konrad Szafer\*, Mononito Goswami, Yifu Cai, Artur Dubrawski   
 **Venue:** Workshop on Data-centric Machine Learning Research (DMLR), ICML 2024
+
+### LayerMerge: Modality-Agnostic Depth Pruning for Efficient Foundation Model Deployment
+**Authors:** _Arjun Choudhry*_, Chang Liu*, Nina Żukowska, Yifu Cai, Mononito Goswami, Artur Dubrawski  
+**Venue:** Workshop on Efficient Reasoning, NeurIPS 2025
+
+### Depth as a Scaling Vector: Simple Pruning and Evaluation of Emergent Abilities in Pruned LLMs
+**Authors:** Chang Liu*, _Arjun Choudhry*_, Yifu Cai, Nina Żukowska, Mononito Goswami, Artur Dubrawski  
+**Venue:** Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling, NeurIPS 2025
 
 ### TimeSeriesExam: A Time Series Understanding Exam
 **Authors:** Yifu Cai, _Arjun Choudhry_, Mononito Goswami, Artur Dubrawski  
@@ -84,10 +91,3 @@ _^ and * represent equal contribution._
 ### TLMOTE: A Topic-based Language Modelling Approach for Text Oversampling
 **Authors:** _Arjun Choudhry_, Seba Susan, Anmol Bansal, Anubhav Sharma  
 **Venue:** 35th Internation FLAIRS Conference 2022, **Best Student Paper Award**
-
-## Under Submission/In Preparation
----
-
-### A Spreader Ranking Algorithm for Extremely Low-budget Influence Maximization in Social Networks using Community Bridge Nodes
-**Authors:** Aaryan Gupta\*, Inder Khatri\*, _Arjun Choudhry\*_, Pranav Chandhok, Dinesh Kumar Vishwakarma, Mukesh Prasad  
-**Venue:** Under *minor revision* in Information Sciences, Elsevier
