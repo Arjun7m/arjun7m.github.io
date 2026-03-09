@@ -21,12 +21,16 @@ _^ and * represent equal contribution._
 **Venue:** Workshop on Data-centric Machine Learning Research (DMLR), ICML 2024
 
 ### LayerMerge: Modality-Agnostic Depth Pruning for Efficient Foundation Model Deployment
-**Authors:** _Arjun Choudhry*_, Chang Liu*, Nina Żukowska, Yifu Cai, Mononito Goswami, Artur Dubrawski  
+**Authors:** _Arjun Choudhry\*_, Chang Liu\*, Nina Żukowska, Yifu Cai, Mononito Goswami, Artur Dubrawski  
 **Venue:** Workshop on Efficient Reasoning, NeurIPS 2025
 
 ### Depth as a Scaling Vector: Simple Pruning and Evaluation of Emergent Abilities in Pruned LLMs
 **Authors:** Chang Liu*, _Arjun Choudhry*_, Yifu Cai, Nina Żukowska, Mononito Goswami, Artur Dubrawski  
 **Venue:** Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling, NeurIPS 2025
+
+### TimeSeriesExamAgent: Creating TimeSeries Reasoning Benchmarks at Scale
+**Authors:** Malgorzata Gwiazda\*, Yifu Cai\*, Mononito Goswami, _Arjun Choudhry_, Artur Dubrawski  
+**Venue:** 14th International Conference on Learning Representations (ICLR) 2026
 
 ### TimeSeriesExam: A Time Series Understanding Exam
 **Authors:** Yifu Cai, _Arjun Choudhry_, Mononito Goswami, Artur Dubrawski  
@@ -42,7 +46,7 @@ _^ and * represent equal contribution._
 
 ### JoLT: Jointly Learned Representations of Language and Time-Series for Clinical Time-Series Interpretation
 **Authors:** Yifu Cai, Arvind Srinivasan, Mononito Goswami, _Arjun Choudhry_, Artur Dubrawski  
-**Venue:** 38th AAAI Conference on Artificial Intelligence 2024 (Student Abstract Track), **Best Student Abstract Paper Award** and **3-minute presentation finalist**
+**Venue:** 38th AAAI Conference on Artificial Intelligence (AAAI) 2024 (Student Abstract Track), **Best Student Abstract Paper Award** and **3-minute presentation finalist**
 
 ### Evaluating Gender Bias in Multilingual Multimodal AI Models: Insights from an Indian Context
 **Authors:** Kshitish Ghate, _Arjun Choudhry_, Vanya Banihatti Kumar  
@@ -54,15 +58,15 @@ _^ and * represent equal contribution._
 
 ### Transformer-based Named Entity Recognition for French using Adversarial Adaptation
 **Authors:** _Arjun Choudhry\*_, Pankaj Gupta\*, Inder Khatri, Aaryan Gupta, Maxime Nicol, Marie-Jean Meurs  
-**Venue:** 37th AAAI Conference on Artificial Intelligence 2023 (Student Abstract Track)
+**Venue:** 37th AAAI Conference on Artificial Intelligence (AAAI) 2023 (Student Abstract Track)
 
 ### CKS: A Community-based K-shell Decomposition Approach
 **Authors:** Inder Khatri\*, Aaryan Gupta\*, _Arjun Choudhry\*_, Aryan Tyagi\*, Dinesh Kumar Vishwakarma, Mukesh Prasad  
-**Venue:** 37th AAAI Conference on Artificial Intelligence 2023 (Student Abstract Track)
+**Venue:** 37th AAAI Conference on Artificial Intelligence (AAAI) 2023 (Student Abstract Track)
 
 ### An Emotion-guided Approach to Domain Adaptive Fake News Detection using Adversarial Learning
 **Authors:** Arkajyoti Chakraborty\*, Inder Khatri\*, _Arjun Choudhry\*_, Pankaj Gupta, Dinesh Kumar Vishwakarma, Mukesh Prasad  
-**Venue:** 37th AAAI Conference on Artificial Intelligence 2023 (Student Abstract Track)
+**Venue:** 37th AAAI Conference on Artificial Intelligence (AAAI) 2023 (Student Abstract Track)
 
 ### Adversarial Adaptation for French Named Entity Recognition
 **Authors:** _Arjun Choudhry\*_, Inder Khatri\*, Pankaj Gupta, Aaryan Gupta, Maxime Nicol, Marie-Jean Meurs, Dinesh Kumar Vishwakarma  
@@ -74,20 +78,20 @@ _^ and * represent equal contribution._
 
 ### MCD: A Modified Community Diversity Approach for Detecting Influential Nodes in Social Networks
 **Authors:** Inder Khatri\*, Aaryan Gupta\*, _Arjun Choudhry_, Sanjay Kumar  
-**Venue:** Journal of Intelligent Information Systems, Springer, 2023
+**Venue:** Journal of Intelligent Information Systems (JIIS), Springer, 2023
 
 ### An Emotion-Aware Multitask Approach to Fake News and Rumor Detection Using Transfer Learning
 **Authors:** _Arjun Choudhry\*_, Inder Khatri\*, Minni Jain, Dinesh Kumar Vishwakarma  
-**Venue:** IEEE Transactions on Computational Social Systems, 2022
+**Venue:** IEEE Transactions on Computational Social Systems (TCSS), 2022
 
 ### An Emotion-Based Multi-Task Approach to Fake News Detection
 **Authors:** _Arjun Choudhry\*_, Inder Khatri\*, Minni Jain*  
-**Venue:** 36th AAAI Conference on Artificial Intelligence 2022 (Student Abstract Track)
+**Venue:** 36th AAAI Conference on Artificial Intelligence (AAAI) 2022 (Student Abstract Track)
 
 ### Emotion-guided Cross-domain Fake News Detection using Adversarial Domain Adaptation
 **Authors:** _Arjun Choudhry\*_, Inder Khatri\*, Arkajyoti Chakraborty, Dinesh Kumar Vishwakarma, Mukesh Prasad  
-**Venue:** 19th International Conference on Natural Language Processing, 2022
+**Venue:** 19th International Conference on Natural Language Processing (ICON), 2022
 
 ### TLMOTE: A Topic-based Language Modelling Approach for Text Oversampling
 **Authors:** _Arjun Choudhry_, Seba Susan, Anmol Bansal, Anubhav Sharma  
-**Venue:** 35th Internation FLAIRS Conference 2022, **Best Student Paper Award**
+**Venue:** 35th International FLAIRS Conference 2022, **Best Student Paper Award**
